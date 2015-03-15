@@ -1,0 +1,10 @@
+{
+  "name": "chicken",
+  "version": "1.0.0",
+  "title": "Evolution Overhaul",
+  "author": "iGi",
+  "homepage": "none",
+  "contact": "none",
+  "description": "Evolution is much faster, but can be reverted by destroying spawners.",
+  "dependencies": ["base >= 0.11.0"]
+}
